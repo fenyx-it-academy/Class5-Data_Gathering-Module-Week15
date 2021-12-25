@@ -53,3 +53,5 @@ vote_average:
 ————————————————
 
 ### 5- In order to rate a movie we want, the necessary information should be obtained from the user and the rate given by the user should be post to the site via API.
+
+## GoodLuck :)
